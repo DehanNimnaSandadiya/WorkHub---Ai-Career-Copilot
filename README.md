@@ -33,8 +33,8 @@ WorkHub is a modern, full-stack web application designed to help job seekers opt
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd WorkHub
+git clone https://github.com/DehanNimnaSandadiya/WorkHub---Ai-Career-Copilot.git
+cd WorkHub---Ai-Career-Copilot
 ```
 
 2. Install dependencies:
@@ -106,3 +106,6 @@ See `.env.example` for all required environment variables.
 
 MIT
 
+## Author
+
+Created by [Dehan Nimna Sandadiya](https://www.linkedin.com/in/dehannimnasandadiya/)
